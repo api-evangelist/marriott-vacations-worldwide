@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/marriottvacationsworldwide
+  - url: https://www.marriottvacationsworldwide.com/feed/
+    type: Blog
 apis: []
