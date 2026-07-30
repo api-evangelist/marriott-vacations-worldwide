@@ -2,7 +2,18 @@ aid: marriott-vacations-worldwide
 url: https://raw.githubusercontent.com/api-evangelist/marriott-vacations-worldwide/refs/heads/main/apis.yml
 name: Marriott Vacations Worldwide
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/marriott-vacations-worldwide.png
 description: 'Profile for Marriott Vacations Worldwide in the API Evangelist network. Fortune F1000 (rank 612).'
 created: '2026-05-05'
 modified: '2026-05-05'
